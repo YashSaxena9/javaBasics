@@ -44,18 +44,18 @@ public class basicSyntax {
         //  while
         int sz = 69;
         while (sz-- > 0) {
-            // System.out.println(sz);
+             System.out.println(sz);
         }
 
         // for each
         for (int i : arr) {
-            // if (i == 0) {
-            //     System.out.println(i);
-            // } else if (i == 1) {
-            //     System.out.println("chetan");
-            // } else {
-            //     System.out.println("kartik ka papa");
-            // }
+             if (i == 0) {
+                 System.out.println(i);
+             } else if (i == 1) {
+                 System.out.println("chetan");
+             } else {
+                 System.out.println("kartik ka papa");
+             }
         }
         
         //  label
